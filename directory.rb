@@ -1,3 +1,4 @@
+student_count = 11
 #prints list of students
 puts "The students of Villans Academy"
 puts "-------------"
@@ -12,7 +13,4 @@ puts "Freddy Krugar"
 puts "The Joker"
 puts "Joffery Baratheon"
 puts "Norman Bates"
-print "Overall, we have "
-print 11
-#adds newline (and has to be in double quoyes)
-print " great students\n"
+puts "Overall, we have #{student_count} great students"
