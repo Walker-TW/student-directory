@@ -1,3 +1,4 @@
+#prints list of students
 puts "The students of Villans Academy"
 puts "-------------"
 puts "Dr. Hannibal Lecter"
@@ -13,4 +14,5 @@ puts "Joffery Baratheon"
 puts "Norman Bates"
 print "Overall, we have "
 print 11
+#adds newline (and has to be in double quoyes)
 print " great students\n"
